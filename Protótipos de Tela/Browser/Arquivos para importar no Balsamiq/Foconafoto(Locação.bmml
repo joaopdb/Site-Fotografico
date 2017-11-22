@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1125" measuredH="720" mockupW="1080" mockupH="720">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="45" y="0" w="1080" h="720" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>www.foconafoto.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="728" y="155" w="329" h="27" measuredW="296" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Portifolio%2C%20Servi%E7os%2C%20Contato%2CLoca%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="126" y="320" w="233" h="223" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="515" y="320" w="233" h="223" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="848" y="320" w="233" h="223" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="210" y="477" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marca%5Cloja</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="593" y="477" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marca%5Cloja</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="939" y="477" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marca%5Cloja</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="111" y="82" w="-1" h="-1" measuredW="128" measuredH="128" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>camera-retro%7Cxxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::IconLabel" x="934" y="90" w="-1" h="-1" measuredW="60" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Instagram</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::IconLabel" x="1000" y="90" w="-1" h="-1" measuredW="57" measuredH="63" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Facebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::BlockOfText" x="280" y="225" w="703" h="80" measuredW="275" measuredH="80" zOrder="11" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

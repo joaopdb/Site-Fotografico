@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1119" measuredH="720" mockupW="1080" mockupH="720">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="39" y="0" w="1080" h="720" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>www.foconafoto.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="728" y="155" w="329" h="27" measuredW="300" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Portifolio%20%2CServi%E7os%2C%20Contato%2CLoca%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="78" y="90" w="-1" h="-1" measuredW="128" measuredH="128" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>camera-retro%7Cxxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Map" x="793" y="360" w="126" h="124" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="103" y="354" w="228" h="241" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::BlockOfText" x="359" y="358" w="434" h="129" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="357" y="486" w="229" h="-1" measuredW="46" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="355" y="514" w="423" h="81" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descri%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="934" y="90" w="-1" h="-1" measuredW="60" measuredH="63" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Instagram</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="1000" y="90" w="-1" h="-1" measuredW="57" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Facebook</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
